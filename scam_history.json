@@ -1,0 +1,52 @@
+[
+  {
+    "timestamp": "2026-05-12T05:28:43.036629",
+    "message": "congratz you have won a ticket to japan",
+    "prediction": "normal safe message",
+    "confidence": 0.4631907045841217,
+    "phones": [],
+    "links": []
+  },
+  {
+    "timestamp": "2026-05-12T05:29:30.088209",
+    "message": "congratz you have won a ticket to japan,Send your bank details to 0776836601",
+    "prediction": "phishing link",
+    "confidence": 0.5439341068267822,
+    "phones": [
+      "0776836601"
+    ],
+    "links": []
+  },
+  {
+    "timestamp": "2026-05-12T11:49:59.405520",
+    "message": "congratz you have won a ticket to japan",
+    "prediction": "normal safe message",
+    "confidence": 0.4631907045841217,
+    "phones": [],
+    "links": []
+  },
+  {
+    "timestamp": "2026-05-12T11:50:29.266973",
+    "message": "congratz you have won a ticket to japan,Send ur bank details",
+    "prediction": "phishing link",
+    "confidence": 0.6122356057167053,
+    "phones": [],
+    "links": []
+  },
+  {
+    "timestamp": "2026-05-16T09:19:50.263375",
+    "message": "You have won a coupon to shop online in Walmart, \nSend you bank account details",
+    "prediction": "phishing link",
+    "confidence": 0.5597342252731323,
+    "phones": [],
+    "links": []
+  },
+  {
+    "timestamp": "2026-05-16T09:21:57.020793",
+    "message": "Your OTP for the ###website is 123456",
+    "prediction": "normal safe message",
+    "confidence": 0.48466700315475464,
+    "phones": [],
+    "links": []
+  }
+]
